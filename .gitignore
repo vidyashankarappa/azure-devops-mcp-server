@@ -1,0 +1,16 @@
+# Compiled Java & Maven build outputs
+target/
+
+# Local IDE & personal MCP config files (keeps your Windows username private)
+.idea/
+*.iml
+.vscode/
+
+# Local H2 database files
+data/
+
+# Environment secrets
+.env
+
+.mcp.json
+.vs/
