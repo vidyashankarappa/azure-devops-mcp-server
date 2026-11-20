@@ -1,4 +1,4 @@
-# Azure DevOps AI Incident Responder (MCP Server)
+# DevOps AI Incident Responder (MCP Server)
 
 An enterprise **Model Context Protocol (MCP)** server built with **Java 17, Spring Boot 3.4, and Spring AI** that connects AI agents (Claude Desktop, VS Code Copilot, Cursor) to microservice health telemetry and a persistent SQL incident database.
 
